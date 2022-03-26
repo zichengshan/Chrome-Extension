@@ -25,6 +25,11 @@ button {
     cursor: pointer;
 }
 
+button:active {
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+}
+
 #delete-btn {
     background-color: white;
     color: #5f9341;
