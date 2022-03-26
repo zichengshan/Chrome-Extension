@@ -1,9 +1,9 @@
 # Chrome-Extension
-Built a save tag chrome-extension from scratch. This extension has the following functions:
-1. Click the "SAVE INPUT" button to save the tag user typed in the input box
-2. Click the "SAVE TAG" to save the current tag for future reference
+Built a link-saving chrome extension from scratch. This extension has the following functions:
+1. Click the "SAVE INPUT" button to save the link url user typed in the input box
+2. Click the "SAVE TAG" to save the current link url for future reference
 3. Double click the "DELETE" button to delete all the links the user has saved
-4. All the links are save in the localStorage, the user will not lose their data if they refresh the page
+4. All the links are saved in the localStorage, the user will not lose their data if they refresh the page
 
 ## Demo
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/61951792/160252713-deb1f295-ed9b-48a8-9d76-8aa74ad27e5c.gif)
